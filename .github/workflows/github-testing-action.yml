@@ -6,7 +6,7 @@ on:
     tags:
       - 'v*' 
 
-jobs:
+jobs: 
   check-bats-version:
     runs-on: ubuntu-latest
     steps:
